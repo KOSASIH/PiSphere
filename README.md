@@ -37,10 +37,10 @@ Join our community of developers, users, and enthusiasts to stay up-to-date with
 
 ## Roadmap
 
-* **Q1 2023**: Launch of the PiSphere testnet
-* **Q2 2023**: Launch of the PiSphere mainnet
-* **Q3 2023**: Deployment of the first dApps on the PiSphere ecosystem
-* **Q4 2023**: Expansion of the PiSphere ecosystem to include additional features and services
+* **Q1 **: Launch of the PiSphere testnet
+* **Q2 **: Launch of the PiSphere mainnet
+* **Q3 **: Deployment of the first dApps on the PiSphere ecosystem
+* **Q4 **: Expansion of the PiSphere ecosystem to include additional features and services
 
 ## Contributing
 
