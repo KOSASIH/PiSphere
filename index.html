@@ -1,0 +1,137 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PiSphere</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #0a0a0a;
+            color: #ffffff;
+        }
+        .hero {
+            background-image: url('https://placehold.co/1920x1080');
+            background-size: cover;
+            background-position: center;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+        .hero h1 {
+            font-size: 4rem;
+            font-weight: bold;
+        }
+        .hero p {
+            font-size: 1.5rem;
+            margin-top: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="bg-gray-900 p-4 fixed w-full z-10 top-0">
+        <div class="container mx-auto flex justify-between items-center">
+            <a href="#" class="text-2xl font-bold text-white">PiSphere</a>
+            <div class="space-x-4">
+                <a href="#features" class="text-white">Features</a>
+                <a href="#services" class="text-white">Services</a>
+                <a href="#about" class="text-white">About</a>
+                <a href="#contact" class="text-white">Contact</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div>
+            <h1>Welcome to PiSphere</h1>
+            <p>A decentralized, autonomous, and self-sustaining ecosystem that redefines the boundaries of blockchain innovation.</p>
+            <button class="mt-4 px-6 py-2 bg-blue-600 text-white rounded-full">Get Started</button>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features" class="py-20 bg-gray-800">
+        <div class="container mx-auto text-center">
+            <h2 class="text-3xl font-bold mb-8">Features</h2>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <div class="p-6 bg-gray-900 rounded-lg">
+                    <i class="fas fa-lock text-4xl mb-4"></i>
+                    <h3 class="text-xl font-bold mb-2">Security</h3>
+                    <p>Advanced security protocols to protect your data and transactions.</p>
+                </div>
+                <div class="p-6 bg-gray-900 rounded-lg">
+                    <i class="fas fa-cogs text-4xl mb-4"></i>
+                    <h3 class="text-xl font-bold mb-2">Automation</h3>
+                    <p>Automated processes to ensure efficiency and reliability.</p>
+                </div>
+                <div class="p-6 bg-gray-900 rounded-lg">
+                    <i class="fas fa-globe text-4xl mb-4"></i>
+                    <h3 class="text-xl font-bold mb-2">Global Access</h3>
+                    <p>Access your data and services from anywhere in the world.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services" class="py-20 bg-gray-700">
+        <div class="container mx-auto text-center">
+            <h2 class="text-3xl font-bold mb-8">Services</h2>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <div class="p-6 bg-gray-900 rounded-lg">
+                    <i class="fas fa-wallet text-4xl mb-4"></i>
+                    <h3 class="text-xl font-bold mb-2">Wallet</h3>
+                    <p>Secure and easy-to-use digital wallet for all your transactions.</p>
+                </div>
+                <div class="p-6 bg-gray-900 rounded-lg">
+                    <i class="fas fa-chart-line text-4xl mb-4"></i>
+                    <h3 class="text-xl font-bold mb-2">Analytics</h3>
+                    <p>Comprehensive analytics to help you make informed decisions.</p>
+                </div>
+                <div class="p-6 bg-gray-900 rounded-lg">
+                    <i class="fas fa-cloud text-4xl mb-4"></i>
+                    <h3 class="text-xl font-bold mb-2">Cloud Storage</h3>
+                    <p>Reliable and secure cloud storage for all your data needs.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="py-20 bg-gray-800">
+        <div class="container mx-auto text-center">
+            <h2 class="text-3xl font-bold mb-8">About Us</h2>
+            <p class="max-w-2xl mx-auto">PiSphere is a decentralized, autonomous, and self-sustaining ecosystem that redefines the boundaries of blockchain innovation. Our mission is to provide a secure, efficient, and accessible platform for all your blockchain needs.</p>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="py-20 bg-gray-700">
+        <div class="container mx-auto text-center">
+            <h2 class="text-3xl font-bold mb-8">Contact Us</h2>
+            <form class="max-w-xl mx-auto">
+                <div class="mb-4">
+                    <input type="text" placeholder="Name" class="w-full p-3 rounded bg-gray-800 text-white">
+                </div>
+                <div class="mb-4">
+                    <input type="email" placeholder="Email" class="w-full p-3 rounded bg-gray-800 text-white">
+                </div>
+                <div class="mb-4">
+                    <textarea placeholder="Message" class="w-full p-3 rounded bg-gray-800 text-white"></textarea>
+                </div>
+                <button type="submit" class="px-6 py-2 bg-blue-600 text-white rounded-full">Send Message</button>
+            </form>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 py-4 text-center">
+        <p>&copy; 2024 PiSphere. All rights reserved.</p>
+    </footer>
+</body>
+</html>
