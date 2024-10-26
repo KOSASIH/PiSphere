@@ -108,6 +108,23 @@
 [![Best Practices Award](https://img.shields.io/badge/Best_Practices_Award-Winner-blue?style=flat-square&logo=star)](https://www.bestpracticesawards.com/)
 [![Tech Impact Awards](https://img.shields.io/badge/Tech_Impact_Awards-Winner-blue?style=flat-square&logo=impact)](https://www.techimpactawards.com/)
 [![Innovation in Education Award](https://img.shields.io/badge/Innovation_in_Education_Award-Winner-blue?style=flat-square&logo=education)](https://www.educationinnovationawards.com/)
+[![Best Workplace Award](https://img.shields.io/badge/Best_Workplace_Award-Winner-blue?style=flat-square&logo=workplace)](https://www.bestworkplaceawards.com/)
+[![Customer Experience Award](https://img.shields.io/badge/Customer_Experience_Award-Winner-blue?style=flat-square&logo=customer-service)](https://www.customerexperienceawards.com/)
+[![Best Product Award](https://img.shields.io/badge/Best_Product_Award-Winner-blue?style=flat-square&logo=product-hunt)](https://www.bestproductawards.com/)
+[![Excellence in Service Award](https://img.shields.io/badge/Excellence_in_Service_Award-Winner-blue?style=flat-square&logo=service)](https://www.serviceexcellenceawards.com/)
+[![Best Use of Technology Award](https://img.shields.io/badge/Best_Use_of_Technology_Award-Winner-blue?style=flat-square&logo=technology)](https://www.techuseawards.com/)
+[![Innovation in Finance Award](https://img.shields.io/badge/Innovation_in_Finance_Award-Winner-blue?style=flat-square&logo=money)](https://www.financeinnovationawards.com/)
+[![Best Social Impact Award](https://img.shields.io/badge/Best_Social_Impact_Award-Winner-blue?style=flat-square&logo=heart)](https://www.socialimpactawards.com/)
+[![Excellence in Marketing Award](https://img.shields.io/badge/Excellence_in_Marketing_Award-Winner-blue?style=flat-square&logo=marketing)](https://www.marketingexcellenceawards.com/)
+[![Best User Experience Award](https://img.shields.io/badge/Best_User_Experience_Award-Winner-blue?style=flat-square&logo=ux)](https://www.userexperienceawards.com/)
+[![Best Data-Driven Company](https://img.shields.io/badge/Best_Data_Driven_Company-Winner-blue?style=flat-square&logo=data)](https://www.datadrivenawards.com/)
+[![Best Emerging Technology Award](https://img.shields.io/badge/Best_Emerging_Technology_Award-Winner-blue?style=flat-square&logo=emerging)](https://www.emergingtechnologyawards.com/)
+[![Best AI Product Award](https://img.shields.io/badge/Best_AI_Product_Award-Winner-blue?style=flat-square&logo=artificial-intelligence)](https://www.aiproductawards.com/)
+[![Best Cloud Solution Award](https://img.shields.io/badge/Best_Cloud_Solution_Award-Winner-blue?style=flat-square&logo=cloud)](https://www.cloudsolutionawards.com/)
+[![Best E-commerce Platform Award](https://img.shields.io/badge/Best_Ecommerce_Platform_Award-Winner-blue?style=flat-square&logo=shopping-cart)](https://www.ecommerceawards.com/)
+[![Best Digital Marketing Campaign Award](https://img.shields.io/badge/Best_Digital_Marketing_Campaign_Award-Winner-blue?style=flat-square&logo=campaign)](https://www.digitalmarketingawards.com/)
+[![Best Tech for Sustainability Award](https://img.shields.io/badge/Best_Tech_for_Sustainability_Award-Winner-blue?style=flat-square&logo=sustainability)](https://www.techforsustainabilityawards.com/)
+[![Best Innovation in Healthcare Award](https://img.shields.io/badge/Best_Innovation_in_Healthcare_Award-Winner-blue?style=flat-square&logo=healthcare)](https://www.healthcareinnovationawards.com/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/PiSphere">PiSphere</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
