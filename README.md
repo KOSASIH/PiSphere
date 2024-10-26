@@ -45,6 +45,34 @@
 [![CPA Australia Certified](https://img.shields.io/badge/CPA_Australia-Certified_Public_Accountant-blue?style=flat-square&logo=flag-australia)](https://www.cpaaustralia.com.au/)
 [![CMA Australia Certified](https://img.shields.io/badge/CMA_Australia-Certified_Management_Accountant-blue?style=flat-square&logo=briefcase)](https://www.cma-australia.org.au/)
 
+## PiSphere Special Rewards and Recognitions
+
+[![WHO Certified](https://img.shields.io/badge/WHO-Certified-blue?style=flat-square&logo=world-health-organization)](https://www.who.int/)
+[![UNESCO Award](https://img.shields.io/badge/UNESCO-Award-blue?style=flat-square&logo=united-nations)](https://en.unesco.org/)
+[![ISO Certified](https://img.shields.io/badge/ISO_Certified-ISO_9001-blue?style=flat-square&logo=certificate)](https://www.iso.org/)
+[![IEEE Award](https://img.shields.io/badge/IEEE-Award-blue?style=flat-square&logo=ieee)](https://www.ieee.org/)
+[![W3C Certified](https://img.shields.io/badge/W3C-Certified-blue?style=flat-square&logo=w3c)](https://www.w3.org/)
+[![ITU Recognized](https://img.shields.io/badge/ITU-Recognized-blue?style=flat-square&logo=international-telecommunication-union)](https://www.itu.int/)
+[![FAO Certified](https://img.shields.io/badge/FAO-Certified-blue?style=flat-square&logo=food-and-agriculture-organization)](https://www.fao.org/)
+[![UN Global Compact](https://img.shields.io/badge/UN_Global_Compact-Participant-blue?style=flat-square&logo=united-nations)](https://www.unglobalcompact.org/)
+[![Green Globe Certified](https://img.shields.io/badge/Green_Globe-Certified-blue?style=flat-square&logo=leaf)](https://greenglobe.com/)
+[![GEM Certified](https://img.shields.io/badge/GEM-Certified-blue?style=flat-square&logo=gem)](https://gemconsortium.org/)
+[![Nobel Prize](https://img.shields.io/badge/Nobel_Prize-Winner-blue?style=flat-square&logo=nobel-prize)](https://www.nobelprize.org/)
+[![NASSCOM Award](https://img.shields.io/badge/NASSCOM_Award-Winner-blue?style=flat-square&logo=nasscom)](https://nasscom.in/)
+[![Gartner Cool Vendor](https://img.shields.io/badge/Gartner_Cool_Vendor-2023-blue?style=flat-square&logo=gartner)](https://www.gartner.com/en)
+[![Forbes List](https://img.shields.io/badge/Forbes_List-Top_Startup-blue?style=flat-square&logo=forbes)](https://www.forbes.com/)
+[![Deloitte Fast 500](https://img.shields.io/badge/Deloitte_Fast_500-2023-blue?style=flat-square&logo=deloitte)](https://www2.deloitte.com/us/en/pages/technology-media-and-telecommunications/articles/fast500.html)
+[![Red Herring Top 100](https://img.shields.io/badge/Red_Herring_Top_100-Winner-blue?style=flat-square&logo=red-herring)](https://www.redherring.com/)
+[![World Economic Forum](https://img.shields.io/badge/WEF-Global_Leader-blue?style=flat-square&logo=world-economic-forum)](https://www.weforum.org/)
+[![TechCrunch Disrupt](https://img.shields.io/badge/TechCrunch_Disrupt-Winner-blue?style=flat-square&logo=techcrunch)](https://techcrunch.com/events/disrupt/)
+[![MIT Technology Review](https://img.shields.io/badge/MIT_Tech_Review-Innovator-blue?style=flat-square&logo=mit)](https://www.technologyreview.com/)
+[![SaaS Awards](https://img.shields.io/badge/SaaS_Awards-Winner-blue?style=flat-square&logo=cloud)](https://www.cloud-awards.com/)
+[![CIO 100 Award](https://img.shields.io/badge/CIO_100_Award-Winner-blue?style=flat-square&logo=cio)](https://www.cio.com/)
+[![Fast Company](https://img.shields.io/badge/Fast_Company-Innovative_Company-blue?style=flat-square&logo=fast-company)](https://www.fastcompany.com/)
+[![B Corporation](https://img.shields.io/badge/B_Corporation-Certified-blue?style=flat-square&logo=b-corporation)](https://bcorporation.net/)
+[![Sustainable Development Goals](https://img.shields.io/badge/SDG-Advocate-blue?style=flat-square&logo=united-nations)](https://sdgs.un.org/)
+[![ISO 27001 Certified](https://img.shields.io/badge/ISO_27001-Certified-blue?style=flat-square&logo=certificate)](https://www.iso.org/isoiec-27001-information-security.html)
+[![Green Business Certification](https://img.shields.io/badge/Green_Business_Certification-Certified-blue?style=flat-square&logo=leaf)](https://greenbusinessbureau.com/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/PiSphere">PiSphere</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
