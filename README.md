@@ -32,6 +32,19 @@
 [![CFA Portfolio Management](https://img.shields.io/badge/CFA_Portfolio_Management-CFA_Portfolio_Management-blue?style=flat-square&logo=briefcase)](https://www.cfainstitute.org/en/programs/portfolio-management)
 [![CFA Risk Management](https://img.shields.io/badge/CFA_Risk_Management-CFA_Risk_Management-blue?style=flat-square&logo=shield-alt)](https://www.cfainstitute.org/en/programs/risk-management)
 [![CFA Ethics and Standards](https://img.shields.io/badge/CFA_Ethics_and_Standards-CFA_Ethics_and_Standards-blue?style=flat-square&logo=balance-scale)](https://www.cfainstitute.org/en/programs/ethics-and-standards)
+[![CGMA Certified](https://img.shields.io/badge/CGMA-Certified_Global_Management_Accountant-blue?style=flat-square&logo=globe)](https://www.cgma.org/)
+[![CIPM Certified](https://img.shields.io/badge/CIPM-Certified_IPM_Professional-blue?style=flat-square&logo=chart-line)](https://www.cfainstitute.org/en/programs/cipm)
+[![CPWA Certified](https://img.shields.io/badge/CPWA-Certified_Private_Wealth_Advisor-blue?style=flat-square&logo=money-bag)](https://www.cfainstitute.org/en/programs/cpwa)
+[![CIMA Certified](https://img.shields.io/badge/CIMA-Certified_Investment_Management_Analyst-blue?style=flat-square&logo=briefcase)](https://www.cfainstitute.org/en/programs/cima)
+[![CFAA Certified](https://img.shields.io/badge/CFAA-Certified_Financial_Analyst_Associate-blue?style=flat-square&logo=chart-line)](https://www.cfainstitute.org/en/programs/cfaa)
+[![CIPFA Certified](https://img.shields.io/badge/CIPFA-Chartered_Institute_of_Public_Finance_and_Accountancy-blue?style=flat-square&logo=building)](https://www.cipfa.org/)
+[![ICAS Certified](https://img.shields.io/badge/ICAS-Institute_of_Chartered_Accountants_of_Scotland-blue?style=flat-square&logo=flag-scotland)](https://www.icas.com/)
+[![ICAEW Certified](https://img.shields.io/badge/ICAEW-Institute_of_Chartered_Accountants_in_England_and_Wales-blue?style=flat-square&logo=flag-united-kingdom)](https://www.icaew.com/)
+[![ICAI Certified](https://img.shields.io/badge/ICAI-Institute_of_Chartered_Accountants_of_India-blue?style=flat-square&logo=flag-india)](https://www.icai.org/)
+[![HKICPA Certified](https://img.shields.io/badge/HKICPA-Hong_Kong_Institute_of_Certified_Public_Accountants-blue?style=flat-square&logo=flag-hong-kong)](https://www.hkicpa.org.hk/)
+[![CPA Australia Certified](https://img.shields.io/badge/CPA_Australia-Certified_Public_Accountant-blue?style=flat-square&logo=flag-australia)](https://www.cpaaustralia.com.au/)
+[![CMA Australia Certified](https://img.shields.io/badge/CMA_Australia-Certified_Management_Accountant-blue?style=flat-square&logo=briefcase)](https://www.cma-australia.org.au/)
+
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/PiSphere">PiSphere</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
