@@ -1,5 +1,27 @@
 ![Static Badge](https://img.shields.io/badge/%F0%9F%8C%90-PiSphere-green)
 
+# PiSphere Certification Badges
+
+## International Finance Certifications
+
+[![CFA Certified](https://img.shields.io/badge/CFA-Certified_Financial_Analyst-blue?style=flat-square&logo=chart-line)](https://www.cfainstitute.org/en/programs/cfa)
+[![CPA Certified](https://img.shields.io/badge/CPA-Certified_Public_Accountant-blue?style=flat-square&logo=calculator)](https://www.aicpa.org/)
+[![CMA Certified](https://img.shields.io/badge/CMA-Certified_Management_Accountant-blue?style=flat-square&logo=briefcase)](https://www.imanet.org/cma-certification)
+[![FRM Certified](https://img.shields.io/badge/FRM-Financial_Risk_Manager-blue?style=flat-square&logo=shield-alt)](https://www.garp.org/frm)
+[![CAIA Certified](https://img.shields.io/badge/CAIA-Chartered_Alternative_Investment_Analyst-blue?style=flat-square&logo=money-bill-wave)](https://caia.org/)
+[![CIMA Certified](https://img.shields.io/badge/CIMA-Chartered_Institute_of_Management_Accountants-blue?style=flat-square&logo=building)](https://www.cimaglobal.com/)
+[![ACCA Certified](https://img.shields.io/badge/ACCA-Association_of_Chartered_Certified_Accountants-blue?style=flat-square&logo=bank)](https://www.accaglobal.com/)
+[![CFP Certified](https://img.shields.io/badge/CFP-Certified_Financial_Planner-blue?style=flat-square&logo=money-check-alt)](https://www.cfp.net/)
+[![CFA Institute](https://img.shields.io/badge/CFAI-CFA_Institute-blue?style=flat-square&logo=university)](https://www.cfainstitute.org/)
+[![CMA Canada](https://img.shields.io/badge/CMA_Canada-Certified_Management_Accountant-blue?style=flat-square&logo=flag-canada)](https://www.cma-canada.org/)
+[![AICPA](https://img.shields.io/badge/AICPA-American_Institute_of_Certified_Public_Accountants-blue?style=flat-square&logo=book)](https://www.aicpa.org/)
+[![CFA Society](https://img.shields.io/badge/CFA_Society-CFA_Society-blue?style=flat-square&logo=users)](https://www.cfainstitute.org/en/societies)
+[![CFA Charterholder](https://img.shields.io/badge/CFA_Charterholder-CFA_Charterholder-blue?style=flat-square&logo=certificate)](https://www.cfainstitute.org/en/programs/cfa/charterholder)
+[![CMA USA](https://img.shields.io/badge/CMA_USA-Certified_Management_Accountant-blue?style=flat-square&logo=flag-usa)](https://www.imanet.org/cma-certification)
+[![CFA Level I](https://img.shields.io/badge/CFA_Level_I-CFA_Level_I-blue?style=flat-square&logo=graduation-cap)](https://www.cfainstitute.org/en/programs/cfa/exam)
+[![CFA Level II](https://img.shields.io/badge/CFA_Level_II-CFA_Level_II-blue?style=flat-square&logo=graduation-cap)](https://www.cfainstitute.org/en/programs/cfa/exam)
+[![CFA Level III](https://img.shields.io/badge/CFA_Level_III-CFA_Level_III-blue?style=flat-square&logo=graduation-cap)](https://www.cfainstitute.org/en/programs/cfa/exam)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/PiSphere">PiSphere</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # PiSphere
