@@ -91,6 +91,23 @@
 [![SaaS Excellence Awards](https://img.shields.io/badge/SaaS_Excellence_Awards-Winner-blue?style=flat-square&logo=cloud)](https://www.saassexcellenceawards.com/)
 [![Women in Tech Awards](https://img.shields.io/badge/Women_in_Tech_Awards-Winner-blue?style=flat-square&logo=female)](https://www.womenintechawards.com/)
 [![Tech Diversity Awards](https://img.shields.io/badge/Tech_Diversity_Awards-Winner-blue?style=flat-square&logo=diversity)](https://www.techdiversityawards.com/)
+[![AI Excellence Award](https://img.shields.io/badge/AI_Excellence_Award-Winner-blue?style=flat-square&logo=robot)](https://www.aiexcellenceawards.com/)
+[![Innovation in Technology Award](https://img.shields.io/badge/Innovation_in_Technology_Award-Winner-blue?style=flat-square&logo=lightbulb)](https://www.innovationawards.com/)
+[![Best Tech Startup](https://img.shields.io/badge/Best_Tech_Startup-Winner-blue?style=flat-square&logo=rocket)](https://www.startupawards.com/)
+[![Tech for Good](https://img.shields.io/badge/Tech_for_Good-Winner-blue?style=flat-square&logo=heart)](https://www.techforgoodawards.com/)
+[![Global Tech Awards](https://img.shields.io/badge/Global_Tech_Awards-Winner-blue?style=flat-square&logo=globe)](https://www.globaltechawards.com/)
+[![Best Mobile App](https://img.shields.io/badge/Best_Mobile_App-Winner-blue?style=flat-square&logo=mobile)](https://www.mobileappawards.com/)
+[![Digital Transformation Award](https://img.shields.io/badge/Digital_Transformation_Award-Winner-blue?style=flat-square&logo=transform)](https://www.digitaltransformationawards.com/)
+[![Cybersecurity Excellence Awards](https://img.shields.io/badge/Cybersecurity_Excellence_Awards-Winner-blue?style=flat-square&logo=security)](https://cybersecurity-excellence-awards.com/)
+[![Women in Tech Awards](https://img.shields.io/badge/Women_in_Tech_Awards-Winner-blue?style=flat-square&logo=female)](https://www.womenintechawards.com/)
+[![Tech Innovation Awards](https://img.shields.io/badge/Tech_Innovation_Awards-Winner-blue?style=flat-square&logo=innovation)](https://www.techinnovationawards.com/)
+[![Sustainable Innovation Award](https://img.shields.io/badge/Sustainable_Innovation_Award-Winner-blue?style=flat-square&logo=leaf)](https://www.sustainableinnovationawards.com/)
+[![Best in Cloud Awards](https://img.shields.io/badge/Best_in_Cloud_Awards-Winner-blue?style=flat-square&logo=cloud)](https://www.bestincloudawards.com/)
+[![Excellence in AI Award](https://img.shields.io/badge/Excellence_in_AI_Award-Winner-blue?style=flat-square&logo=artificial-intelligence)](https://www.ai-excellence-awards.com/)
+[![Global Leadership Award](https://img.shields.io/badge/Global_Leadership_Award-Winner-blue?style=flat-square&logo=leadership)](https://www.globalleadershipawards.com/)
+[![Best Practices Award](https://img.shields.io/badge/Best_Practices_Award-Winner-blue?style=flat-square&logo=star)](https://www.bestpracticesawards.com/)
+[![Tech Impact Awards](https://img.shields.io/badge/Tech_Impact_Awards-Winner-blue?style=flat-square&logo=impact)](https://www.techimpactawards.com/)
+[![Innovation in Education Award](https://img.shields.io/badge/Innovation_in_Education_Award-Winner-blue?style=flat-square&logo=education)](https://www.educationinnovationawards.com/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/PiSphere">PiSphere</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
